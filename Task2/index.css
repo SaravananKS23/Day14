@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+}
+.fa{
+float:left;
+text-align: center;
+vertical-align: middle;
+padding: 70px 0px 0px 5px;
+margin: 0px 0px 30px 25px;
+width: 170px;
+height: 200px;
+border:1px solid black;
+}
+    
+.box-part{
+    border: 1px solid black;
+    background-color: white;
+    padding: 30px 40px 30px 40px;
+    margin: 40px 0px 40px 0px;
+}
+
+
+a{
+    color: #0062cc;
+    border-bottom: 2px solid #0062cc;
+    font-size: 16px;
+}
+.box{
+    padding: 20px 0px 20px 0px;
+    border: 1px solid black;
+}
+p{
+    margin: 10px 10px;
+    font-size: 20px;
+    line-height: 1.2em;
+    white-space: nowrap;
+}
+
+button{
+    width: 40%;
+border: 1px solid black;
+background-color: white;
+margin-left: 0.5em;
+margin-top: 5px;
+font-size: 18px;
+}
+
+.block{
+    margin-top: 0px;
+    margin-left: 60px;
+    text-align: right;
+    padding: 0px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.foo {
+    margin-top: 10px;
+}
+
+.foo1 {
+    margin-top: 20px;
+}
+
+input{
+    margin: 5px 0px 5px 0px;
+    text-align: center!important;
+ 
+}
